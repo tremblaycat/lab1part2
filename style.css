@@ -147,7 +147,10 @@ margin-top: 200px;
 .scrollbutton{
   display: flex;
   justify-content: center;
-
+position: fixed;
+bottom: 10px;
+left: 50%;
+transform: translate(-50%);
 
 
 }
